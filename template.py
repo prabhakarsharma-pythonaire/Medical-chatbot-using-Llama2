@@ -12,7 +12,7 @@ list_of_files = [
     ".env",
     "setup.py",
     "research/trials.ipynb",
-    "static/.gitkeep",
+    "static/style.css",
     "app.py",
     "store_index.py",
     "templates/chat.html"
